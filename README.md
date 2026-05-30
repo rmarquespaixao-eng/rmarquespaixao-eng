@@ -68,33 +68,22 @@ em Apache Spark e Databricks.
 
 ### `▍` GitHub
 
-<div align="center">
+[![Seguidores](https://img.shields.io/github/followers/rmarquespaixao-eng?style=flat-square&logo=github&logoColor=f59e0b&labelColor=0f1117&color=1e293b&label=seguidores)](https://github.com/rmarquespaixao-eng?tab=followers)
+[![Repositórios](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&logoColor=f59e0b&labelColor=0f1117&color=1e293b&label=repos%20p%C3%BAblicos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frmarquespaixao-eng)](https://github.com/rmarquespaixao-eng?tab=repositories)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rmarquespaixao-eng&show_icons=true&hide_border=true&bg_color=0f1117&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmarquespaixao-eng&layout=compact&hide_border=true&langs_count=8&bg_color=0f1117&title_color=f59e0b&text_color=e2e8f0" />
-
-</div>
+O calendário de contribuições fica logo abaixo. 👇
 
 ---
 
 ### `▍` Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/rmarquespaixao-eng/sistema-financeiro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmarquespaixao-eng&repo=sistema-financeiro&hide_border=true&bg_color=0f1117&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0" />
-</a>
-<a href="https://github.com/rmarquespaixao-eng/sistema-livros">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmarquespaixao-eng&repo=sistema-livros&hide_border=true&bg_color=0f1117&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0" />
-</a>
-<a href="https://github.com/rmarquespaixao-eng/protondeck">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmarquespaixao-eng&repo=protondeck&hide_border=true&bg_color=0f1117&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0" />
-</a>
-<a href="https://github.com/rmarquespaixao-eng/geek-social">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmarquespaixao-eng&repo=geek-social&hide_border=true&bg_color=0f1117&title_color=f59e0b&icon_color=f59e0b&text_color=e2e8f0" />
-</a>
-
-</div>
+| Projeto | Stack | Sobre |
+| --- | --- | --- |
+| **[sistema-financeiro](https://github.com/rmarquespaixao-eng/sistema-financeiro)** | `Java` · Spring Boot 3 · Vue 3 | Gerenciador financeiro pessoal — monorepo com Keycloak embutido. |
+| **[sistema-livros](https://github.com/rmarquespaixao-eng/sistema-livros)** | `Java` · Spring Boot 3 · Vue 3 | Biblioteca de livros pessoal — monorepo com Keycloak embutido. |
+| **[protondeck](https://github.com/rmarquespaixao-eng/protondeck)** | `TypeScript` · Fastify · SQLite | Dashboard self-hosted de configs Proton pra Steam Linux, arquitetura hexagonal. |
+| **[geek-social](https://github.com/rmarquespaixao-eng/geek-social)** | `TypeScript` | Rede social para amantes de games e board games. |
+| **[arch-templates](https://github.com/rmarquespaixao-eng/arch-templates)** | `TypeScript` · `Python` | Templates didáticos: Clean Architecture (TS) + Hexagonal (Python). |
 
 ---
 
