@@ -32,7 +32,11 @@ na prática mudou a forma como projeto software — e isso continua guiando minh
 | Backend | `Java 21` · Spring WebFlux · Groovy · Vert.x · Node.js · Go |
 | Mensageria e dados | Kafka · Apache Spark · Databricks · PostgreSQL |
 | Cloud e infraestrutura | AWS · Kubernetes · Docker · Terraform · Linux |
-| Frontend e IA | TypeScript · Vue 3 · Astro · APIs de LLM · Ollama |
+| Frontend | HTML5 · CSS3 · JavaScript · TypeScript · Vue 3 · Astro |
+
+### IA & Agents
+
+Codex · Claude · DeepSeek · Ollama
 
 ### Projeto em destaque
 
