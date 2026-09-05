@@ -29,14 +29,11 @@ na prática mudou a forma como projeto software — e isso continua guiando minh
 
 | Área | Tecnologias |
 | --- | --- |
-| Backend | `Java 21` · Spring WebFlux · Groovy · Vert.x · Node.js · Go |
-| Mensageria e dados | Kafka · Apache Spark · Databricks · PostgreSQL |
-| Cloud e infraestrutura | AWS · Kubernetes · Docker · Terraform · Linux |
-| Frontend | HTML5 · CSS3 · JavaScript · TypeScript · Vue 3 · Astro |
-
-### IA & Agents
-
-Codex · Claude · DeepSeek · Ollama
+| Backend | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,go" height="32" alt="Java, Spring, Node.js e Go" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue" height="32" alt="HTML5, CSS3, JavaScript, TypeScript e Vue 3" /> |
+| Mensageria e dados | <img src="https://skillicons.dev/icons?i=kafka,spark,postgres" height="32" alt="Kafka, Apache Spark e PostgreSQL" /> |
+| Cloud e infraestrutura | <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux" height="32" alt="AWS, Kubernetes, Docker, Terraform e Linux" /> |
+| IA & Agents | <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" height="24" alt="Codex" /> <img src="https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=white" height="24" alt="Claude" /> <img src="https://img.shields.io/badge/DeepSeek-111827?style=flat-square&logo=deepseek&logoColor=white" height="24" alt="DeepSeek" /> <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white" height="24" alt="Ollama" /> |
 
 ### Projeto em destaque
 
