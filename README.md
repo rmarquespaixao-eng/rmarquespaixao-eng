@@ -9,8 +9,7 @@ precisam existir desde o primeiro commit.
 
 <a href="https://rafaelmarquesdev.com">Site</a> ·
 <a href="https://www.linkedin.com/in/rafael-marques-dev">LinkedIn</a> ·
-<a href="https://github.com/rmarquespaixao-eng?tab=repositories">Repositórios</a> ·
-<a href="https://git.homelab-cloud.com">Gitea</a>
+<a href="https://github.com/rmarquespaixao-eng?tab=repositories">Repositórios</a>
 
 </div>
 
@@ -41,9 +40,6 @@ na prática mudou a forma como projeto software — e isso continua guiando minh
 <br />
 Dashboard self-hosted para configurações do Proton na biblioteca Steam Linux,
 construído com TypeScript, Fastify, SQLite e arquitetura hexagonal.
-
-Estou organizando os demais projetos e ferramentas do homelab no
-**[Gitea](https://git.homelab-cloud.com)**.
 
 ### Como penso sobre software
 
